@@ -39,7 +39,7 @@ These grew out of the lab and are deployed live:
 
 ```bash
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
-pip install langchain langchain-community langgraph langchain-groq langchain-openai python-dotenv jupyter
+pip install -r requirements.txt
 ```
 
 Create a `.env` file with the API keys a notebook uses (for example `GROQ_API_KEY`, `OPENAI_API_KEY`, `GOOGLE_API_KEY`). Some sub-projects have their own `requirements.txt` or `pyproject.toml`; use those when present.
