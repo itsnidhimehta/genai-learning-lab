@@ -1,0 +1,23 @@
+Here are **10 AI concepts with one-sentence definitions**, each written as a complete sentence with proper punctuation:
+
+1. **Machine Learning** is a branch of artificial intelligence that enables computers to learn patterns from data and make predictions without being explicitly programmed.
+
+2. **Deep Learning** is a subset of machine learning that uses multi-layered neural networks to solve complex problems and recognize patterns.
+
+3. **Neural Networks** are computational models inspired by the human brain that process information and learn from data.
+
+4. **Natural Language Processing (NLP)** is a field of AI that allows computers to understand, interpret, and generate human language.
+
+5. **Computer Vision** is an area of AI that enables machines to analyze, interpret, and understand visual information from images and videos.
+
+6. **Reinforcement Learning** is a machine learning technique in which an agent learns to make decisions by receiving rewards or penalties for its actions.
+
+7. **Generative AI** is a type of artificial intelligence that creates new content such as text, images, audio, or code based on learned patterns.
+
+8. **Embeddings** are numerical vector representations of data that capture semantic meaning and relationships between different items.
+
+9. **Retrieval-Augmented Generation (RAG)** is an AI technique that combines information retrieval with language generation to produce more accurate and context-aware responses.
+
+10. **Transformers** are deep learning architectures that use attention mechanisms to efficiently process sequential data and power modern AI models like ChatGPT.
+
+You can directly copy and paste these into your text file.
